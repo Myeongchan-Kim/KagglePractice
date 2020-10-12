@@ -17,5 +17,6 @@ https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles
 
 ### Day 2
 - TODO: Check EDA example Jupyter codes
+  - https://www.kaggle.com/nxrprime/lyft-understanding-the-data-catalyst-baseline
 - TODO: Install L5Kit
 - TODO: How to read `zarr`?
