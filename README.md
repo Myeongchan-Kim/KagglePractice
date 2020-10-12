@@ -16,6 +16,6 @@ https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles
   - Takes 20GB... 
 
 ### Day 2
-TODO: Check EDA example Jupyter codes
-TODO: Install L5Kit
-TODO: How to read `zarr`?
+- TODO: Check EDA example Jupyter codes
+- TODO: Install L5Kit
+- TODO: How to read `zarr`?
