@@ -12,6 +12,7 @@ https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles
   - Install kaggle `pip install kaggle -U`
   
 - Download training data
+  - `kaggle competitions download -c lyft-motion-prediction-autonomous-vehicles`
   - Takes 20GB... 
 
 ### Day 2
