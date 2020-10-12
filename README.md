@@ -13,3 +13,4 @@ For practicing of competitive challenge in data science
 
 ## Day 2
 TODO: Check EDA example Jupyter codes
+TODO: Install L5Kit
