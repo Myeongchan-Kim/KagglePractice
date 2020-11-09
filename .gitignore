@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Keras model
+*.hdf5
+
+# MacOS filesystem
+.DS_Store
