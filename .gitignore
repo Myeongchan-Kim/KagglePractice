@@ -133,3 +133,5 @@ dmypy.json
 
 # MacOS filesystem
 .DS_Store
+
+Faster-RCNN_practice/global-wheat-detection/
